@@ -15,3 +15,5 @@ By analyzing [an open dataset of Amazon Drug Reviews](http://jmcauley.ucsd.edu/d
 Embeddings: SVD, FastText, GLoVe
 Classifiers: MLP, SVC, Logistic, ...
 
+
+Please refer to [the report](https://github.com/rmaganza/amazon-text-reviews-classification/blob/master/Report/TM_S_Report.pdf) (in Italian) for better explanations.
